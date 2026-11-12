@@ -1,0 +1,4 @@
+Méthode,Anomalies détectées,Pourcentage
+Z-Score,58,1.55%
+Isolation Forest,113,3.01%
+LOF,113,3.01%
